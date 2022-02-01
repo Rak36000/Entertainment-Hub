@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Entertainment-Hub/static/css/main.66e2d33e.css",
+    "main.js": "/Entertainment-Hub/static/js/main.18e27d92.js",
+    "static/js/787.1e3eb9dc.chunk.js": "/Entertainment-Hub/static/js/787.1e3eb9dc.chunk.js",
+    "index.html": "/Entertainment-Hub/index.html",
+    "main.66e2d33e.css.map": "/Entertainment-Hub/static/css/main.66e2d33e.css.map",
+    "main.18e27d92.js.map": "/Entertainment-Hub/static/js/main.18e27d92.js.map",
+    "787.1e3eb9dc.chunk.js.map": "/Entertainment-Hub/static/js/787.1e3eb9dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e2d33e.css",
+    "static/js/main.18e27d92.js"
+  ]
+}
